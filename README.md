@@ -34,7 +34,7 @@ Timelock extensions add a delay for governance decisions to be executed. The wor
 
 * {GovernorTimelockControl}: Connects with an instance of {TimelockController}. Allows multiple proposers and executors, in addition to the Governor itself.
 
-* {GovernorTimelockCompound}: Connects with an instance of Compound's https://github.com/compound-finance/compound-protocol/blob/master/contracts/Timelock.sol[`Timelock`] contract.
+* {GovernorTimelockCompound}: Connects with an instance of Compound's https://github.com/compound-finance/compound-protocol/blob/master/contracts/Timelock.sol [`Timelock`] contract.
 
 Other extensions can customize the behavior or interface in multiple ways.
 
